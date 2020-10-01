@@ -1,4 +1,4 @@
-module github.com/shivam-tripathi/learning-go
+module github.com/shivam-tripathi/learningGo
 
 go 1.15
 
